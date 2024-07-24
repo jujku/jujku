@@ -12,23 +12,23 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const jujku = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Java", "Javascript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["Vue"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            java:["springboot"]
+            js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["Android Studio","visual studo code"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
