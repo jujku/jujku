@@ -19,12 +19,12 @@ const jujku = {
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            java:["springboot"]
+            java:["springboot"],
             js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["Android Studio","visual studo code"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["Android Studio","visual studo code","idea"],
+        databases: ["MySql", "sqlite"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
