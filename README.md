@@ -26,8 +26,8 @@ const jujku = {
         devOps: ["Android Studio","visual studo code","idea"],
         databases: ["MySql", "sqlite"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    hobbies: ["Cooking", "Running", "Reading", "Learning Japanese"],
+    currentProject: "I am developing a native Android sound recorder application.",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
