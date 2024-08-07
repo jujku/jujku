@@ -36,9 +36,9 @@ const jujku = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-137-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,20 +77,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     22 hrs 26 mins      ████████████████████░░░░░   79.98 % 
-XML                      2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Gradle                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Groovy                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Java                     20 hrs 34 mins      ███████████████████░░░░░░   75.52 % 
+XML                      3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Gradle                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Groovy                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Android Studio           28 hrs 2 mins       █████████████████████████   100.00 % 
+Android Studio           27 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PriSoundRecorder         27 hrs 50 mins      █████████████████████████   99.26 % 
-TheFirstTask             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+PriSoundRecorder         27 hrs 11 mins      █████████████████████████   99.80 % 
+TheFirstTask             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  28 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  27 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -107,7 +107,7 @@ HTML                     2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jujku/jujku/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2024 18:40:55 UTC
+ Last Updated on 07/08/2024 18:40:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
