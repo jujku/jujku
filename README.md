@@ -44,6 +44,8 @@ const jujku = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 104 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -111,7 +113,7 @@ HTML                     2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jujku/jujku/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2024 18:38:14 UTC
+ Last Updated on 19/08/2024 18:40:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
