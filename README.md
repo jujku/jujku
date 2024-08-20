@@ -36,15 +36,13 @@ const jujku = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 104 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,24 +77,18 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     11 hrs 44 mins      █████████████████████████   98.07 % 
-Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Java                     10 hrs 4 mins       █████████████████████████   98.12 % 
+Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Android Studio           11 hrs 57 mins      █████████████████████████   100.00 % 
+Android Studio           10 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DynamicBox               11 hrs 55 mins      █████████████████████████   99.66 % 
-helloworld2              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-AndroidStudyNotes        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-TheFirstTask             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GitStudy                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DynamicBox               10 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +105,7 @@ HTML                     2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jujku/jujku/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:40:31 UTC
+ Last Updated on 20/08/2024 18:40:17 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
