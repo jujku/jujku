@@ -36,15 +36,13 @@ const jujku = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 104 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,18 +77,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     10 hrs 12 mins      █████████████████████████   98.14 % 
-Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     12 hrs 7 mins       ███████████████████████░░   93.07 % 
+XML                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Android Studio           10 hrs 23 mins      █████████████████████████   100.00 % 
+Android Studio           13 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DynamicBox               10 hrs 23 mins      █████████████████████████   100.00 % 
+DynamicBox               13 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -107,7 +107,7 @@ HTML                     2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jujku/jujku/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 18:40:44 UTC
+ Last Updated on 22/08/2024 18:40:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
