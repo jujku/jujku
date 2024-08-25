@@ -36,15 +36,13 @@ const jujku = {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 105 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,20 +77,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     7 hrs 17 mins       █████████████████████░░░░   85.21 % 
-XML                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Java Properties          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Java                     7 hrs 48 mins       ██████████████████████░░░   87.89 % 
+XML                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Android Studio           8 hrs 33 mins       █████████████████████████   100.00 % 
+Android Studio           8 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DynamicBox               8 hrs 33 mins       █████████████████████████   100.00 % 
+DynamicBox               8 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,7 +107,7 @@ HTML                     2 repos             ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jujku/jujku/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2024 18:38:46 UTC
+ Last Updated on 25/08/2024 18:38:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
